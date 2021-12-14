@@ -1,8 +1,8 @@
 
 def main(msg):
     print(msg)
-    //Another
-    //Adding different
-    //new massages
+    //No longer need comments
 
+    def secondary("New function")
+        
 main("hello people")
